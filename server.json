@@ -1,0 +1,113 @@
+{
+    "data" : [
+    {
+      "id": 1,
+      "imgUrl": "./CImg/alfa_romeo.jpg",
+      "title": "ALfa Romeo",
+      "price": "600 000$",
+      "Year": "2022",
+      "Location": "Dubai"
+    },
+    {
+      "id": 2,
+      "imgUrl": "./CImg/dodge.jpg",
+      "title": "Dodge",
+      "price": "76 000$",
+      "Year": "2000",
+      "Location": "New York"
+    },
+  
+    {
+      "id": 3,
+      "imgUrl": "./CImg/jeep.jpg",
+      "title": "Jeep",
+      "price": "143 000$",
+      "Year": "2001",
+      "Location": "Tbilisi"
+    },
+  
+    {
+      "id": 4,
+      "imgUrl": "./CImg/lamborgini_urus-1.jpg",
+      "title": "Lamborgini Urus",
+      "price": "320 000$",
+      "Year": "2023",
+      "Location": "Dubai"
+    },
+    {
+      "id": 5,
+      "imgUrl": "./CImg/lamborgini_urus.jpg",
+      "title": "Lamborgini Urus",
+      "price": "320 000$",
+      "Year": "2023",
+      "Location": "Dubai"
+    },
+    {
+      "id": 6,
+      "imgUrl": "./CImg/lexus.jpg",
+      "title": "Lexus",
+      "price": "90 000$",
+      "Year": "2022",
+      "Location": "New York"
+    },
+    {
+      "id": 7,
+      "imgUrl": "./CImg/maserati.jpg",
+      "title": "Maserati",
+      "price": "2 300 000$",
+      "Year": "2023",
+      "Location": "Tbilisi"
+    },
+    {
+      "id": 8,
+      "imgUrl": "./CImg/mazda-2.jpg",
+      "title": "Mazda",
+      "price": "95 000$",
+      "Year": "2019",
+      "Location": "Tbilisi"
+    },
+    {
+      "id": 9,
+      "imgUrl": "./CImg/mazda.jpg",
+      "title": "Mazda",
+      "price": "95 000$",
+      "Year": "2019",
+      "Location": "Tbilisi"
+    },
+  
+    {
+      "id": 10,
+      "imgUrl": "./CImg/nissan.jpg",
+      "title": "Nissan",
+      "price": "100 000$",
+      "Year": "2020",
+      "Location": "Dubai"
+    },
+  
+    {
+      "id": 11,
+      "imgUrl": "./CImg/subaru-2.jpg",
+      "title": "Subaru",
+      "price": "100 000$",
+      "Year": "2020",
+      "Location": "Dubai"
+    },
+    {
+      "id": 12,
+      "imgUrl": "./CImg/subaru.jpg",
+      "title": "Subaru",
+      "price": "100 000$",
+      "Year": "2020",
+      "Location": "Tbilisi"
+    },
+    {
+      "id": 13,
+      "imgUrl": "./CImg/tesla.jpg",
+      "title": "Lexus",
+      "price": "130 000$",
+      "Year": "2024",
+      "Location": "Dubai"
+    }
+  ]
+  
+  }
