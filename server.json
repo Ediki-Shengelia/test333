@@ -2,7 +2,7 @@
     "data" : [
     {
       "id": 1,
-      "imgUrl": "./CImg/alfa_romeo.jpg",
+      "imgUrl": "https://cdn.motor1.com/images/mgl/6mK7E/s1/2020-alfa-romeo-giulia-quadrifoglio.jpg",
       "title": "ALfa Romeo",
       "price": "600 000$",
       "Year": "2022",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "imgUrl": "./CImg/dodge.jpg",
+      "imgUrl": "https://www.motortrend.com/uploads/2023/05/001-2023-dodge-super-stock-f8-green.jpg",
       "title": "Dodge",
       "price": "76 000$",
       "Year": "2000",
@@ -19,7 +19,7 @@
   
     {
       "id": 3,
-      "imgUrl": "./CImg/jeep.jpg",
+      "imgUrl": "https://media.ed.edmunds-media.com/jeep/wrangler/2024/oem/2024_jeep_wrangler_convertible-suv_rubicon-392_fq_oem_1_1600.jpg",
       "title": "Jeep",
       "price": "143 000$",
       "Year": "2001",
@@ -28,7 +28,7 @@
   
     {
       "id": 4,
-      "imgUrl": "./CImg/lamborgini_urus-1.jpg",
+      "imgUrl": "https://www.marinoperformancemotors.com/imagetag/14235/49/l/Used-2022-Lamborghini-Urus.jpg",
       "title": "Lamborgini Urus",
       "price": "320 000$",
       "Year": "2023",
@@ -36,7 +36,7 @@
     },
     {
       "id": 5,
-      "imgUrl": "./CImg/lamborgini_urus.jpg",
+      "imgUrl": "https://www.marinoperformancemotors.com/imagetag/14235/49/l/Used-2022-Lamborghini-Urus.jpg",
       "title": "Lamborgini Urus",
       "price": "320 000$",
       "Year": "2023",
@@ -44,7 +44,7 @@
     },
     {
       "id": 6,
-      "imgUrl": "./CImg/lexus.jpg",
+      "imgUrl": "https://global.toyota/pages/news/images/2020/07/07/1330/20200707_02_07_s.jpg",
       "title": "Lexus",
       "price": "90 000$",
       "Year": "2022",
@@ -52,7 +52,7 @@
     },
     {
       "id": 7,
-      "imgUrl": "./CImg/maserati.jpg",
+      "imgUrl": "https://vehicle-images.dealerinspire.com/9f3d-11001349/thumbnails/large/ZAMBMVBB6RX435906/5285bf16fbe9fe556258b9f22f2fb28b.jpg",
       "title": "Maserati",
       "price": "2 300 000$",
       "Year": "2023",
@@ -60,7 +60,7 @@
     },
     {
       "id": 8,
-      "imgUrl": "./CImg/mazda-2.jpg",
+      "imgUrl": "https://cdn.motor1.com/images/mgl/qkMqGG/s3/2024-mazda-mx-5-miata-jdm.jpg",
       "title": "Mazda",
       "price": "95 000$",
       "Year": "2019",
@@ -68,7 +68,7 @@
     },
     {
       "id": 9,
-      "imgUrl": "./CImg/mazda.jpg",
+      "imgUrl": "https://cdn.motor1.com/images/mgl/8ANgMP/s3/mazda-iconic-sp-concept.jpg",
       "title": "Mazda",
       "price": "95 000$",
       "Year": "2019",
@@ -77,7 +77,7 @@
   
     {
       "id": 10,
-      "imgUrl": "./CImg/nissan.jpg",
+      "img": "https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2021/10/06060008/Nissan-car-facts-cover-061020211030-420x230.jpg",
       "title": "Nissan",
       "price": "100 000$",
       "Year": "2020",
@@ -86,7 +86,7 @@
   
     {
       "id": 11,
-      "imgUrl": "./CImg/subaru-2.jpg",
+      "imgUrl": "https://blog.way.com/wp-content/uploads/2023/07/shutterstock_1642303912-1.jpg",
       "title": "Subaru",
       "price": "100 000$",
       "Year": "2020",
@@ -94,7 +94,7 @@
     },
     {
       "id": 12,
-      "imgUrl": "./CImg/subaru.jpg",
+      "imgUrl": "https://cdn.oem-production.subaru.com.au/media/sniknfxx/my24-crosstrek-awd-hybrid-l-sun-blaze-pearl-front.png",
       "title": "Subaru",
       "price": "100 000$",
       "Year": "2020",
@@ -102,7 +102,7 @@
     },
     {
       "id": 13,
-      "imgUrl": "./CImg/tesla.jpg",
+      "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Lexus/LX/8657/1671778873338/front-left-side-47.jpg",
       "title": "Lexus",
       "price": "130 000$",
       "Year": "2024",
