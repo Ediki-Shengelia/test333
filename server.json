@@ -75,17 +75,10 @@
       "Location": "Tbilisi"
     },
   
-    {
-      "id": 10,
-      "img": "https://www.nissan.ca/content/dam/Nissan/Canada/Vehicles/Z/2024/overview/2024-nissan-z-yellow-sandy-hills.jpg",
-      "title": "Nissan",
-      "price": "100 000$",
-      "Year": "2020",
-      "Location": "Dubai"
-    },
+ 
   
     {
-      "id": 11,
+      "id": 10,
       "imgUrl": "https://blog.way.com/wp-content/uploads/2023/07/shutterstock_1642303912-1.jpg",
       "title": "Subaru",
       "price": "100 000$",
@@ -93,7 +86,7 @@
       "Location": "Dubai"
     },
     {
-      "id": 12,
+      "id": 11,
       "imgUrl": "https://cdn.oem-production.subaru.com.au/media/sniknfxx/my24-crosstrek-awd-hybrid-l-sun-blaze-pearl-front.png",
       "title": "Subaru",
       "price": "100 000$",
@@ -101,7 +94,7 @@
       "Location": "Tbilisi"
     },
     {
-      "id": 13,
+      "id": 12,
       "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Lexus/LX/8657/1671778873338/front-left-side-47.jpg",
       "title": "Lexus",
       "price": "130 000$",
